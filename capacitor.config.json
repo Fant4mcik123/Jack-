@@ -1,0 +1,6 @@
+{
+  "appId": "com.jack.stirner",
+  "appName": "Джек Штирнер",
+  "webDir": "www",
+  "android": { "backgroundColor": "#000000" }
+}
